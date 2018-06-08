@@ -50,19 +50,19 @@ h3 {
 }
 
 #dot1 {
-    background-color: red;
+    background-color: #E6563B;
 }
 
 #dot2 {
-    background-color: gold;
+    background-color: #ffbe4c;
 }
 
 #dot3 {
-    background-color: green;
+    background-color: #7CB06C;
 }
 
 #dot4 {
-    background-color: teal;
+    background-color: #00ABA9;
 }
 span {
     text-align: center;
