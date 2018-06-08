@@ -36,3 +36,35 @@ h3 {
     font-weight: bold;
 }
 
+.dot{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    border: white 10px solid;
+    padding: 30px;
+    margin: 10px;
+    color: white;
+    font-size: 1.2em;
+    font-family: 'Anton';
+}
+
+#dot1 {
+    background-color: red;
+}
+
+#dot2 {
+    background-color: gold;
+}
+
+#dot3 {
+    background-color: green;
+}
+
+#dot4 {
+    background-color: teal;
+}
+span {
+    text-align: center;
+
+}
