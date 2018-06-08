@@ -1,4 +1,14 @@
-.nav  {
-    color: black;
+h1 {
+    text-align: center;
+    font-family: "Helvetica Neue", "sans-serif";
+}
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    background-color: #c3c3c3;
 }
