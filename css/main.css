@@ -28,6 +28,8 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 200px;
+    width: 200px;
 }
 
 }
@@ -93,5 +95,19 @@ span {
 }
 
 .text1 {
+    font-family: "Anton";
+    font-size: 0.7em;
+
+}
+
+.text2 {
+     font-family: "Anton";
+ }
+
+.text3 {
+    font-family: "Anton";
+}
+
+.text4 {
     font-family: "Anton";
 }
