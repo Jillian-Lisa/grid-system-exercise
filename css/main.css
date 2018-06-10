@@ -3,10 +3,14 @@
 }
 
 .container {
-    background-color: #c3c3c3;
+    background-color: #E6E6E6;
     text-align: center;
-    margin: auto;
     border: 1px solid red;
+    /*remove this padding and margin before submission to github*/
+    padding: 10px;
+    margin: 10px;
+    /*remove this padding and margin before submission to github*/
+
 
 .ul {
     text-align: center;
@@ -26,10 +30,8 @@ h1 {
 
 .img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 200px;
-    width: 200px;
+    /*height: 200px;*/
+    /*width: 200px;*/
 }
 
 }
