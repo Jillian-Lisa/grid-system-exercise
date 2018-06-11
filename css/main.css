@@ -49,12 +49,17 @@ h4 {
     padding: 1em;
     font-family: "Abel";
 }
+
 .dot{
+
+}
+
+.dot-lg{
     height: 150px;
     width: 150px;
     border-radius: 50%;
     display: inline-block;
-    /*border: white 10px solid;*/
+    border: white 10px solid;
     padding: 30px;
     margin: 10px;
     color: white;
@@ -62,64 +67,48 @@ h4 {
     font-family: 'Anton';
 }
 
-#dot1 {
-    background-color: #E6563B;
-    border: white 10px solid;
-}
-
-#dot2 {
-    background-color: #EB9D3A;
-    border: white 10px solid;
-}
-
-#dot3 {
-    background-color: #7CB06C;
-    border: white 10px solid;
-}
-
-#dot4 {
-    background-color: #00ABA9;
-    border: white 10px solid;
-}
-
-#dot5 {
-    background-color: #E6563B;
+.dot-sm {
     border-radius: 25em;
     width: 18px;
     height: 18px;
     color: black;
     text-align: center;
 }
+
+#dot1 {
+    background-color: #E6563B;
+}
+
+#dot2 {
+    background-color: #EB9D3A;
+}
+
+#dot3 {
+    background-color: #7CB06C;
+}
+
+#dot4 {
+    background-color: #00ABA9;
+}
+
+#dot5 {
+    background-color: #E6563B;
+}
+
 #dot6 {
     background-color: #EB9D3A;
-    border-radius: 25em;
-    width: 1px;
-    height: 1px;
-    color: black;
-    text-align: center;
 }
 
 #dot7 {
     background-color: #7CB06C;
-    border-radius: 25em;
-    width: 1px;
-    height: 1px;
-    color: black;
-    text-align: center;
 }
 
 #dot8 {
     background-color: #00ABA9;
-    border-radius: 25em;
-    width: 1px;
-    height: 1px;
-    color: black;
-    text-align: center;
 }
 
 span {
     text-align: center;
-
 }
 
 .text1 {
@@ -150,3 +139,6 @@ span {
     text-align: center;
 }
 
+.nav-link {
+    color: black;
+}
