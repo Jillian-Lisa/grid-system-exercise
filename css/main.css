@@ -9,6 +9,13 @@
     border: 1px solid red;
 }
 
+.logo {
+    align-content: center;
+}
+
+#headline {
+    font-size: xx-large;
+}
 
 h1 {
     text-align: center;
